@@ -1,5 +1,5 @@
 Django==1.5.4
-PIL==1.1.7
+Pillow
 South==0.8.2
 django-debug-toolbar==0.11.0
 django-media-manager==3.3.1
